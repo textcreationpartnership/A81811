@@ -1,0 +1,720 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concordia rara fonorum, or A poem upon the late fight at sea, between the two great fleets of England and Holland. By I.D. Esq;</title>
+            <author>I. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81811</idno>
+            <idno type="STC">Wing D25</idno>
+            <idno type="STC">Thomason E689_31</idno>
+            <idno type="STC">ESTC R206980</idno>
+            <idno type="EEBO-CITATION">99866058</idno>
+            <idno type="PROQUEST">99866058</idno>
+            <idno type="VID">166468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81811)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166468)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E689[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concordia rara fonorum, or A poem upon the late fight at sea, between the two great fleets of England and Holland. By I.D. Esq;</title>
+                  <author>I. D.</author>
+               </titleStmt>
+               <extent>[2], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Ridley, at the Castle in Fleet-Street, neer Ram Alley,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March: 26th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166468:1" rendition="simple:additions"/>
+            <p>
+               <hi>Concordia rara ſonorum,</hi> OR A POEM UPON The late Fight at Sea, between the two great Fleets of ENGLAND AND HOLLAND.</p>
+            <p>By <hi>I. D.</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Ridley,</hi> at the Caſtle in Fleet-Street, neer <hi>Ram Alley,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:166468:2"/>
+            <pb n="1" facs="tcp:166468:2"/>
+            <head>A POEM, <g ref="char:V">Ʋ</g>pon the late Fight at Sea, between the two great Fleets of <hi>ENGLAND AND HOLLAND.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>ARS, worſe then Pitch-feilds, on a moving plaine,</l>
+               <l>We ſing, and for it; where two States retaine</l>
+               <l>In their owne bowels their victorious ſhot,</l>
+               <l>Vaſt Wounds, and horrid Death, yet feele them not.</l>
+               <l>And, as <hi>Romes</hi> paire with this point dig'd their grave,</l>
+               <l>
+                  <hi>Caeſar</hi> no firſt, <hi>Pompey</hi> no Peere would have:</l>
+               <l>
+                  <pb n="2" facs="tcp:166468:3" rendition="simple:additions"/>Iuſt ſo tis here with us; <hi>Van-trump</hi> allowes</l>
+               <l>No State to his Superiour; and <hi>Blake</hi> vowes,</l>
+               <l>Ours hath no equall: neither thus will vaile,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut looſe a Fleet, rather then ſtrike a Saile.</l>
+               <l>Thus both march on, cutting deep <hi>Neptunes</hi> Brow,</l>
+               <l>(Prodigious ſight, to cal't I know not how!)</l>
+               <l>Whether two running Townes, or waving Woods</l>
+               <l>Or rather Iſlands tumbling on the Floods.</l>
+               <l>At whoſe approach the curled Billowes roare,</l>
+               <l>And, as they come, fearefully roll before.</l>
+               <l>The oppreſſed towr-like whales lye bellowing unde<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>That <hi>Neptune</hi> ſeem'd t' uſurp his Brothers Thunder.</l>
+               <l>The ſilent Fiſh, preſaging future blood,</l>
+               <l>Againſt their kind run frighted into th' mud:</l>
+               <l>And, had they wings, would from the Sea have broa<g ref="char:EOLunhyphen"/>ken</l>
+               <l>And but for churliſh nature would have ſpoken,</l>
+               <l>To manifeſt their feare; yet, what they might,</l>
+               <l>They fled apace, to ſhun the dreadfull ſight.</l>
+               <l>The Oceans king, feeling ſuch weight on's backe,</l>
+               <l>With leaning on his Trident made it cracke.</l>
+               <l>
+                  <pb n="3" facs="tcp:166468:3"/>Had it not been immoveable, they ſay,</l>
+               <l>The Earth this time would faine have fled away;</l>
+               <l>And the amas'd ſhoare, as each Fleet neer ſounds</l>
+               <l>Almoſt forgot to keep's ordained bounds.</l>
+               <l>One might have thought the Battell was begun,</l>
+               <l>To ſee how <hi>Neptune</hi> firſt was thorough run;</l>
+               <l>How the Sterne braſſe his curled forehead toare,</l>
+               <l>And trembling waves were ſtrucke by cruell oare.</l>
+               <l>Each Fleet the Captaines had divided ſoon,</l>
+               <l>Into the forme of an halfe-circled Moon:</l>
+               <l>But as their furious hornes together met,</l>
+               <l>Theſe two halfe Moones a full Moon did beget;</l>
+               <l>Which like to that in Heaven, as it did go,</l>
+               <l>Made the fleet waters ſtrangly ebb and flow.</l>
+               <l>Now as with proud advance they neerer came;</l>
+               <l>Thoſe Beaſts which gave the ſaile-rul'd veſſels name,</l>
+               <l>With an aſpect more grim then is their life,</l>
+               <l>As breathing nought but warr, and balefull ſtrife,</l>
+               <l>Came feircely forward all; as if from thence</l>
+               <l>They meant to move their painted reſidence.</l>
+               <l>
+                  <pb n="4" facs="tcp:166468:4"/>The Lion, Elephant, and ſavage Hog,</l>
+               <l>The Lybard, Tygre, Wolfe, and cruell Dog</l>
+               <l>Sternly affront each other; one might gueſſe</l>
+               <l>In midſt of Sea a ſavage Wilderneſſe:</l>
+               <l>Wherein with admiration one might ſee</l>
+               <l>So many a feirce wilde Beaſt, ſo many a Tree.</l>
+               <l>But now our valiant Generall traverſing</l>
+               <l>About the Fleet, encouraged them, reherſing</l>
+               <l>This ſpeech; wherein he bravely did exhort</l>
+               <l>To th' fight: which ready, cut the Oration ſhort,</l>
+               <l>Courage, brave Engliſh; that is all I pray,</l>
+               <l>Strength cannot want, where courage leads the way.</l>
+               <l>But what need I th' undanted hearts excite</l>
+               <l>Of them, whoſe eyes, methinks, already fight.</l>
+               <l>Looke as yee do, and you ſhall never need</l>
+               <l>Weapons, or hands, to make your foes to bleed:</l>
+               <l>Your lookes will ſtrike them dead, and war-like ſight</l>
+               <l>Shall put your fearefull Enemies to flight.</l>
+               <l>VVhat ere you aime at, here before you lye,</l>
+               <l>Honour, Revenge, Spoile, Riches, Victory:</l>
+               <l>
+                  <pb n="5" facs="tcp:166468:4"/>VVhich if they move not, ſee your native Land,</l>
+               <l>Your Nurſe, your Mother, ſee how ſhe doth ſtand</l>
+               <l>Afar, to marke which of you beſt ſhall render</l>
+               <l>Thanks for her nurture, who ſhall beſt defend her.</l>
+               <l>Them will ſhe honour: bravely then drive backe</l>
+               <l>This Dutch Sea-monſter; which is come to racke</l>
+               <l>Your Nurſes entrails: come't but once to Land,</l>
+               <l>The very Earth will be affraid to ſtand</l>
+               <l>Its cruell brunt; whether if reach it can,</l>
+               <l>The blood and tears will make an Ocean,</l>
+               <l>Deeper then this. I ſee'em now repaire,</l>
+               <l>(O let my Omen vaniſh into Aire-)</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto your Land: ſee how the Hogens rage</l>
+               <l>About your Coaſts, ſparing nor Sexe, nor Age.</l>
+               <l>See how they pull ſtrong walls of Cities downe,</l>
+               <l>Leaving the men as naked as the Towne.</l>
+               <l>They raze your ſacred Temples, and not leave</l>
+               <l>A hallowed place, where after yee may heave</l>
+               <l>Your hands for aide to Heaven; your Altars frames</l>
+               <l>Theſe wicked wretches with prophaned flames</l>
+               <l>
+                  <pb n="6" facs="tcp:166468:5"/>Sacrifice to their anger; yea they dare</l>
+               <l>To open ghoſtly Tombes, and thence lay bare</l>
+               <l>Your Anceſtors ſad Coffins; whoſe dead aſhes,</l>
+               <l>Inſtead of tears, their Childrens blood be-daſhes.</l>
+               <l>See how in few houres they act or'e againe</l>
+               <l>Each horrid paſſage, every bloody ſceane</l>
+               <l>Of your late ſev'n yeares Tragedy; and do out do</l>
+               <l>VVhat ere was left done, or undone by you.</l>
+            </lg>
+            <lg>
+               <l>Theſe things, which Heav'n be thankt, I but ſuppoſe,</l>
+               <l>Vnleſs you help, will once advance your foes.</l>
+               <l>Say that your Navie be far leſſe then theirs;</l>
+               <l>Have not great Ships amidſt their ſwift carreers</l>
+               <l>Been ſtaied by little <hi>Remoraes?</hi> Then on;</l>
+               <l>And let not this cold Element, whereon</l>
+               <l>VVee are to fight, quench thoſe couragious flames,</l>
+               <l>VVhich burne in every manly breaſt, which aimes</l>
+               <l>At immortality: but ſtrike ſo ſterne,</l>
+               <l>That the dumb Fiſhes may hereafter learne</l>
+               <l>To ſpeake your praiſes, and each wave report</l>
+               <l>Vnto its Neighbour, in how valiant ſort</l>
+               <l>
+                  <pb n="7" facs="tcp:166468:5"/>Ye fought; till that the Oceans utmoſt bound,</l>
+               <l>And fartheſt <hi>Thule,</hi> with your fame ſhall ſound:</l>
+               <l>Yea that the Sun, When he at night ſhall preſſe</l>
+               <l>This way, may go and tell th' <hi>Antipedes,</hi>
+               </l>
+               <l>What acts he ſaw. Nor yet of aide deſpaire;</l>
+               <l>The Sea it ſelfe, if need ſhall aske, will ſpare</l>
+               <l>A thouſand of his ſtreaming armes for you;</l>
+               <l>All Fiſh prove Sword-fiſh, to fight for our due.</l>
+               <l>Thinke for no refuge here to flye; your hand,</l>
+               <l>Not feet, muſt bring you backe againe to Land.</l>
+               <l>No longer will the time with us diſpence;</l>
+               <l>What my ſpeech wants, my Sword ſhall recompence.</l>
+               <l>Now 'twixt a thouſand lives, a thouſand deaths,</l>
+               <l>Of time one little winged minute breaths.</l>
+               <l>The loud mouth'd Gun onely expects the fire,</l>
+               <l>At touch of which, as burnt, it ſhould expire</l>
+               <l>Its skreiking voice, groaning that ſo much death</l>
+               <l>Should be accompliſht by th' infectious breath</l>
+               <l>Of its dire mouth: Darts readie are to part,</l>
+               <l>And hide their heads in ſome ill fortun'd heart.</l>
+               <l>
+                  <pb n="8" facs="tcp:166468:6"/>Arrows and Muskets leveld, ſeem to kill,</l>
+               <l>Before they can in act, in fiery will.</l>
+               <l>One might have thought, viewing this fearfull fight,</l>
+               <l>'T had been the picture of a navall fight.</l>
+               <l>But hark, the amazing ſignes of battell ſound,</l>
+               <l>Making the land remote, and rocks rebound.</l>
+               <l>The ſhril voic't Trumpet, and couragious Drum</l>
+               <l>In barbarous language bid the <hi>Dutch</hi> to come.</l>
+               <l>Deaths horrid vizard now begins to appeare,</l>
+               <l>In their pale faces; terrour, and ghaſtly feare</l>
+               <l>In their amazed hearts doe panting riſe;</l>
+               <l>And future blood-baths in their fiery eyes;</l>
+               <l>Stern cruelty advanceth on their lids,</l>
+               <l>With headlong fury ſtalking in the mids:</l>
+               <l>
+                  <hi>Apelles</hi> preſent here, or one ſo skilld,</l>
+               <l>Might have made pictures hence that would have kild.</l>
+               <l>The thundring Ordnance now began to rent</l>
+               <l>The amazed aire; the flames before it ſent,</l>
+               <l>Seem lightning; and as deadly bullets flie,</l>
+               <l>Prodigious hail ſeemd to poure down the Skie;</l>
+               <l>
+                  <pb n="9" facs="tcp:166468:6"/>Smoake made a Cloudy miſt; and all together</l>
+               <l>Seem on the Sea to raiſe tempeſtuous weather.</l>
+               <l>To call for aid here, ſtands as much in ſtead,</l>
+               <l>As in that place, where from a doubtfull head</l>
+               <l>The ſeven-mouthd <hi>Nilus</hi> with a deſperate ſhock,</l>
+               <l>Headlong doth tumble from the amazed rock;</l>
+               <l>Making the people on the neighbouring ſhelves,</l>
+               <l>That hearing him, they cannot hear themſelves.</l>
+               <l>Thus the fights noiſe made many a man to fall,</l>
+               <l>An inconſider'd, ſilent funerall.</l>
+               <l>Alaſſe theſe Elements, which uſe t' uphold</l>
+               <l>Our crazy lives with their juſt heat and cold,</l>
+               <l>Making compact our bodies conſtitution,</l>
+               <l>Strive now to cauſe its utter diſſolution.</l>
+               <l>The quick and peircing fire, as it doth burn</l>
+               <l>Their wofull carkaſſes, doth <hi>freezing</hi> turn</l>
+               <l>Their minds to quaking fear, and Chill diſpaire.</l>
+               <l>The liquid, flitting, and all-ſearching aire,</l>
+               <l>Admits remorſeleſſe ſhot, and murthring darts,</l>
+               <l>Denying breath at laſt to cool their hearts.</l>
+               <l>
+                  <pb n="10" facs="tcp:166468:7"/>The theeviſh water, though it ran away</l>
+               <l>With ſubtle ſhifts, did notwithſtanding ſlay,</l>
+               <l>And ſwallow moſt with a devouring flood:</l>
+               <l>Onely poor Earth, ſtark, ſtill, aſtoniſhd ſtood.</l>
+               <l>Who viewing this, would not have thought a wonder,</l>
+               <l>That without rain, winde, lightning, hail, or thunder,</l>
+               <l>Or hidden ſhelves, or Rocks ſea-ambuſht back,</l>
+               <l>Or any tempeſts, Ships ſhould ſuffer wrack?</l>
+               <l>That one might here have term'd it, chooſe you whether,</l>
+               <l>A ſtormy-calme, or calme-tempeſtuous weather.</l>
+            </lg>
+            <lg>
+               <l>But now each Fleet, each Ship, with hopeful pride,</l>
+               <l>Claſh altogether furious ſide to ſide.</l>
+               <l>Men now, with men contend, and Ships with Ships,</l>
+               <l>One body 'gainſt another: here one skips</l>
+               <l>Into his enemies Deck; but beaten back,</l>
+               <l>He leaps to's owne; of which if ſo he lack,</l>
+               <l>He falls ith' Sea: much like a wave, whoſe head,</l>
+               <l>By urging winds unto the ſhore is lead,</l>
+               <l>And thence by breſt of the oft-drowned ſhoare,</l>
+               <l>Taking a blunt repulſe, for ſpite doth roare;</l>
+               <l>
+                  <pb n="11" facs="tcp:166468:7"/>And ſtaggering runs back; and is this all</l>
+               <l>Ambition aimes at, in the way to fall?</l>
+               <l>Their tired ſenſes labour'd in ſuch wiſe,</l>
+               <l>As they grew dull with too much excerciſe.</l>
+               <l>Their troubled eyes, viewing ſuch ghaſtlie ſights,</l>
+               <l>Wiſh'd that ſad darkneſſe canceld all their lights.</l>
+               <l>That horrid noiſe, the battell made, was ſuch,</l>
+               <l>Hearing heard nothing, 'cauſe it heard ſo much.</l>
+               <l>Taſt is of death; ranck blood pollutes the ſmell:</l>
+               <l>What feeling felt, they all did feel too well.</l>
+               <l>Such a confuſion racks their ſenſes here,</l>
+               <l>Th' had reaſon now to wiſh, they ſenſleſſe were.</l>
+               <l>Grim death in purple ſtalks upon the hatches,</l>
+               <l>With pale and greiſly looks ſee how he ſnatches</l>
+               <l>Hundreds at once unto him; till the dreary,</l>
+               <l>Lean-fac'd, ill-favourd death, of death grew weary.</l>
+               <l>See on the Sea how thouſand bodies float,</l>
+               <l>From their great Ships, haſting to <hi>Charons</hi> Boat;</l>
+               <l>Which crabbed Skuller now doth think it meet,</l>
+               <l>His old torn Boat ſhould be new changd a Fleet.</l>
+               <l>
+                  <pb n="12" facs="tcp:166468:8"/>The tumults noiſe <hi>peirc'd</hi> the blew arched Skie,</l>
+               <l>The Chriſtall aire, ſtild with a deadly cry,</l>
+               <l>Onely in this was bleſt; as blowes abounded,</l>
+               <l>It could be ever cut, yet never wounded.</l>
+               <l>The ſilent earth, glad that ſhee was debard</l>
+               <l>From this ſad ſight, yet inwardly was heard</l>
+               <l>The dreadfull ſtrokes, rebounding loud, to mone,</l>
+               <l>And Eccho made her yeeld a hollow grone.</l>
+               <l>But this cauſe cheifly made her moſt to rave,</l>
+               <l>That to her due the Sea ſhould prove a grave.</l>
+               <l>Never did ſtrong-breath'd <hi>Aeolus</hi> diſturbe</l>
+               <l>The Sea ſo much; when he can hardly curb</l>
+               <l>His madding Pages, when they raging muſter</l>
+               <l>To quarrell with the waves, or whiſtling bluſter</l>
+               <l>Among the well-ſet trees, and branched boughs,</l>
+               <l>Singing through chinks of ſome decayed houſe.</l>
+               <l>Nor ſterne <hi>Orion,</hi> with his ſtormy light</l>
+               <l>Appalling Shipmen, doth ſo much afright</l>
+               <l>The ſoon-mov'd Sea, as did this battels noiſe,</l>
+               <l>Which <hi>Neptune</hi> anſwerd with his bellowing voice;</l>
+               <l>
+                  <pb n="13" facs="tcp:166468:8"/>Who, as the Fleet urg'd neerer to the ſtrand;</l>
+               <l>With tumbling pace ran frighted up the ſand:</l>
+               <l>That had not bounds reſtrain'd his element,</l>
+               <l>His watery vaile had cloath'd the Continent.</l>
+               <l>The fearfull winds on the Ocean durſt not rome;</l>
+               <l>But, leſt they ſhould be ſmother'd, kept at home,</l>
+               <l>And there ſate ſighing: Clouds their rain doe keep,</l>
+               <l>(Though ready at the battels ſight to weep)</l>
+               <l>Leſt their pure drops with gore-blood ſhould be ſtain'd</l>
+               <l>So that no winds blew, nor from Heaven it rain'd.</l>
+               <l>Marvell not yet at tempeſts on the flood,</l>
+               <l>So many tears ſtream'd, and ſuch ſtreams of blood;</l>
+               <l>Nor without winds are waves to be admir'd,</l>
+               <l>So many groans, and dying breaths expir'd.</l>
+               <l>The Oceans skaly, ſilent, wandring nation,</l>
+               <l>Seeing pale armed troups invade the ſtation</l>
+               <l>Of their vaſt Kingdome, down the ſanguine flood</l>
+               <l>Fearfully glide, fearing their future food.</l>
+               <l>The tender Nymphs, who with their ſilver feet</l>
+               <l>Vſe on the plaines of criſped <hi>Thetis</hi> meet;</l>
+               <l>
+                  <pb n="14" facs="tcp:166468:9"/>Where tripping prettily, they are wont to dance</l>
+               <l>Themſelves into a heavenly ſlumbring trance</l>
+               <l>Of ſweet repoſe, at theſe inhumane ſhocks,</l>
+               <l>With haire all torne, creep into th' hollow rocks:</l>
+               <l>Where ſhrowded, they to meditate began,</l>
+               <l>No rock ſo flinty as the heart of man.</l>
+               <l>Yea <hi>Thetis</hi> ſelfe, whoſe womb enriched bare</l>
+               <l>That fearfull thunder of the <hi>Troian</hi> warre,</l>
+               <l>Stubborn <hi>Achilles,</hi> who in fight did win</l>
+               <l>Such glory, wiſhd that wars had never bin:</l>
+               <l>So ſhe, with all her trembling watry peeres,</l>
+               <l>Augment the briniſh ſea with briniſh teares.</l>
+               <l>Ships now begin to burne; that one might ſee</l>
+               <l>
+                  <hi>Neptunes</hi> and <hi>Vulcans</hi> conſanguinity.</l>
+               <l>Yea now thoſe ſhips, which free from water ſtood,</l>
+               <l>Strangely begin to ſinke with humane blood;</l>
+               <l>Which, as from thence with fearfull guſh it ran,</l>
+               <l>Filld up the wrinkles of the Ocean;</l>
+               <l>Which Sea ſo full of dead, it hence might come</l>
+               <l>Well to be called <hi>Mar e mortu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m.</hi>
+               </l>
+               <l>
+                  <pb n="15" facs="tcp:166468:9"/>The quaking Ships with murmuring Guns are rent,</l>
+               <l>Whoſe wounded ſides the goared ſtreams do vent</l>
+               <l>Of dead, and wounded men; who lay therein,</l>
+               <l>As if they had their Beers, or Coffins bin:</l>
+               <l>They lay therein; and as the Ships did goe,</l>
+               <l>Seem'd bloody, bloodleſſe, dead, and moving too.</l>
+               <l>The furious flames with firedoth undermine</l>
+               <l>The towring Maſt, made of the lofty Pine;</l>
+               <l>So that ſame tree, which oft lights Nuptials,</l>
+               <l>Now Cypres-like doth burn at funerals.</l>
+               <l>Thus eaten by the <hi>galling flames,</hi> at laſt</l>
+               <l>Falls down the huge, high-mounted, weighty Maſt;</l>
+               <l>And, as great things are wont, fell not alone,</l>
+               <l>Killing a troup, not of its foes, but's owne.</l>
+               <l>The tacklings, ſailes, and cables, now doe burn;</l>
+               <l>And fire caſts Anchors never to return.</l>
+               <l>About their eares the whiſtling bullets ſung;</l>
+               <l>And wandring wild-fire made the affrighted throng</l>
+               <l>Croud into corners ſpeedily, and they,</l>
+               <l>That durſt ſtand men, to ſenſleſſe fire give way.</l>
+               <l>
+                  <pb n="16" facs="tcp:166468:10"/>As when within the fat <hi>Trinacrian</hi> ſoile</l>
+               <l>Inflamed <hi>Aetna</hi> doth begin to boile;</l>
+               <l>When nak'd <hi>Pyracmon,</hi> with his round-eyd fellows,</l>
+               <l>Sweating, heave up their huge, ſtrong-breathed bellows;</l>
+               <l>Thundring upon their ſteely Anvils top,</l>
+               <l>To furniſh Armour for their ſmoaky ſhop;</l>
+               <l>Their ponderous hammers, and redoubling, makes</l>
+               <l>
+                  <hi>Enceladus</hi> belch out his ſulph'ry flakes</l>
+               <l>Of vengefull wrath; then may you ſee black Smoake</l>
+               <l>Vomiting out, wrapt in a pitchy Cloake;</l>
+               <l>And the hard bowells of the mountain, torne</l>
+               <l>By fettered fire, with a ſtrange bounding borne</l>
+               <l>Vp to the clouds; whoſe fearfull fall to ſhun,</l>
+               <l>The Neighbouring people with amazement run</l>
+               <l>To ſhrouding dens; hiding them cloſely under,</l>
+               <l>Fearing from high, and from below a Thunder.</l>
+               <l>Thus did the inhumane Battells fury rage;</l>
+               <l>Nor could the Sea the increaſing flames aſſwage.</l>
+               <l>Hee, that would now have travelled to Hell,</l>
+               <l>Might have ſeene weary, ſweating <hi>Charon</hi> ſwell</l>
+               <l>
+                  <pb n="17" facs="tcp:166468:10"/>In fervent labour, with his moſſy oares,</l>
+               <l>Tugging pale ſhadowes to th' o're-ſwarm'd ſhoares;</l>
+               <l>Which on the Bankes as they lamenting crept,</l>
+               <l>VVailing <hi>Cocytus</hi> in compaſſion wept:</l>
+               <l>
+                  <hi>Acheron</hi> flow'd with griefe; and, as they ſay,</l>
+               <l>
+                  <hi>Lethe</hi> her ſelfe will ne're forget this day.</l>
+               <l>The furies whin'd, by <hi>Plutoes</hi> judgment caſt,</l>
+               <l>VVho ſweare their rage was farre by men ſurpaſt.</l>
+               <l>One coming here, might tired <hi>Clotho</hi> ſpy,</l>
+               <l>How ſhe could ſcarce her weary armes apply</l>
+               <l>To turne the wheele; and <hi>Lacheſis</hi> repine,</l>
+               <l>VVho ſware ſhe could not threads of mortals twine</l>
+               <l>So faſt, as they were cut; you might have ſeene</l>
+               <l>
+                  <hi>Atropos</hi> raging with remorceleſſe teen;</l>
+               <l>And ſeeking each where for ſome greety Stone</l>
+               <l>To whether Sheers; whoſe edge was dulled growne.</l>
+               <l>VVith too much cutting of their fatall thread,</l>
+               <l>VVhoſe hapleſſe lives this gaſtfull Battell ſhed:</l>
+               <l>Fire now, and water did not each contend;</l>
+               <l>But ſeeme their power ſo mutually to lend,</l>
+               <l>
+                  <pb n="18" facs="tcp:166468:11"/>That at this time there many a one became</l>
+               <l>Burnt in the Sea, and drowned in the flame.</l>
+               <l>This one good hap to carkaſſes did fall,</l>
+               <l>Th' had fire to burn 'em at their funerall.</l>
+               <l>The mangled Ships, not fearing to be drench'd,</l>
+               <l>Gladly take <hi>breaches,</hi> thereby to be quench'd.</l>
+               <l>The induſtrious Pilot, ſitting at the ſtern,</l>
+               <l>Where in a little Card he can diſcern</l>
+               <l>The vaſt uncertainty of <hi>Neptunes</hi> haunt,</l>
+               <l>Ruling ſwift Ships by powerfull Adamant;</l>
+               <l>Here as he ſits retir'd, and watchfull minds,</l>
+               <l>The frequent change of two and thirty winds,</l>
+               <l>Comes an unruly ſhot, and him doth force</l>
+               <l>To certain death, change his uncertain courſe:</l>
+               <l>So he, that wont ſtern blaſts in truce to bind,</l>
+               <l>Could not foreſee when he ſhould looſe his wind;</l>
+               <l>From ſtormes and miſts of death he could not free</l>
+               <l>Himſelfe, who wont the tempeſts curb; but he,</l>
+               <l>Who bearding <hi>Neptune,</hi> us'd on the Ocean float,</l>
+               <l>Is now controld in <hi>Charons</hi> little Boat.</l>
+               <l>
+                  <pb n="19" facs="tcp:166468:11"/>The Maſter ranging up and down the Deck,</l>
+               <l>And wounded mortally, to him doth beck</l>
+               <l>His Mate; who haſting to his aide in vaine,</l>
+               <l>Is there together with the Maſter ſlaine;</l>
+               <l>And at once ended with him his lives date,</l>
+               <l>Proving himſelfe truly the Maſters Mate.</l>
+               <l>The Trumpeter, with brave reviving ſound</l>
+               <l>Quickning their dying hearts, is feld to th' ground;</l>
+               <l>And as in's mouth he ſtill the braſſe did weild,</l>
+               <l>His dying breath made it a dead march yeild;</l>
+               <l>And having lent his Trumpet ſo much breath</l>
+               <l>In's life, it turn'd him ſome againe at's death.</l>
+               <l>The Drummer with his nimble hand repeating</l>
+               <l>His doubled blows, without compaſſion beating</l>
+               <l>His harmeles Drum, which ſeemd with groaning cry</l>
+               <l>To murmure at his Maſters cruelty,</l>
+               <l>Oth' ſudden two raſh bullets rudely come,</l>
+               <l>Tearing both skin of drummer, and of Drum;</l>
+               <l>Drummer of life, of ſound the Drum's bereft;</l>
+               <l>So Drum and drummer both are ſpeechleſſe left.</l>
+               <l>
+                  <pb n="20" facs="tcp:166468:12"/>The Gunner, as with nimble haſt he runs</l>
+               <l>To fire his ſeldome vaine-reporting Gunns;</l>
+               <l>His head a leaden winged bullet hits,</l>
+               <l>And his hard braine pan into peeces ſplits.</l>
+               <l>He of a thouſand this alone might vaunt,</l>
+               <l>That of his death he was not ignorant:</l>
+               <l>And this true Riddle might of him abide,</l>
+               <l>He lived once by's death, by's life now dy'd.</l>
+               <l>Here comes a Captaine, with undaunted face,</l>
+               <l>Encouraging his Souldiers to the Chaſe;</l>
+               <l>And being about to ſay, he brave and bold,</l>
+               <l>An untaught bullet rudely bids him hold:</l>
+               <l>And as deaths miſt in his dull eyes did wander,</l>
+               <l>Beſeeching aide, he left to be Commander.</l>
+               <l>And hee whoſe voice from fainting thought to call them</l>
+               <l>By's dying groane doth fearfully appall them.</l>
+               <l>This Leader faithfull to his utmoſt breath,</l>
+               <l>Can onely now lead them the way to Death.</l>
+               <l>See how to ſteale the waving Flag, one climbes</l>
+               <l>Vp by the Cords; but being eſpied betimes</l>
+               <l>
+                  <pb n="21" facs="tcp:166468:12"/>Tangled ith' ropes, he is of life bereft,</l>
+               <l>And ſo is hang'd for his intended theft:</l>
+               <l>But the cords burnt, wherein his legs were bound,</l>
+               <l>He gets a Pyrats death, both hang'd and drown'd.</l>
+               <l>Some, under hatches cloſed in deſpaire,</l>
+               <l>Moun<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up their foes with powder into the aire:</l>
+               <l>Which done, it ſeem'd a ſtrange prodigious ſight,</l>
+               <l>A troup of armed men to maske the light:</l>
+               <l>It ſeemed yet that they no damage meant them,</l>
+               <l>Who the next way up into Heaven ſent them;</l>
+               <l>Making them flie, beyond <hi>Daedalian</hi> skill,</l>
+               <l>In the vaſt aire without a winged quill;</l>
+               <l>Giving to them a ſtrange unwonted death,</l>
+               <l>Who, having aire too much, yet wanted breath.</l>
+               <l>See, ſee, the lot of ſad mortality;</l>
+               <l>Our chiefeſt helps help oft to miſery.</l>
+               <l>Some men, who came ſecure from future harmes,</l>
+               <l>Enroll'd in well-prov'd ſteely-cloathed armes,</l>
+               <l>Fall by miſchance into the Seas dire hand,</l>
+               <l>Whence being unarm'd they might have ſwom to land.</l>
+               <l>
+                  <pb n="22" facs="tcp:166468:13"/>Their armes do ſinck, and without mercy end them,</l>
+               <l>So kil'd by that which chiefly ſhould defend them.</l>
+               <l>One, with his Musket ready to give fire,</l>
+               <l>Aimes at another adverſe Musketteere;</l>
+               <l>But his Match misſing flire, hee's forc'd to dye</l>
+               <l>By the others Matches true fidelity:</l>
+               <l>By which he dy'd can ſcarcely well be knowne,</l>
+               <l>Whether by the others Musket, or his owne.</l>
+               <l>See there a Coward, wanting heart t' abide</l>
+               <l>The daunting face of the feirce adverſe ſide;</l>
+               <l>Slinketh behinde the netx; not caring whether,</l>
+               <l>Comes a mad ſhot and kills them both together.</l>
+               <l>One, ſeeing now his ſide begin to faile,</l>
+               <l>Shewes them their Colours, while himſelfe looks pale.</l>
+               <l>Sure by this man ſome Omen ill was ſhowne,</l>
+               <l>To keep their Colours, who could looſe his owne.</l>
+               <l>Thoſe men who chanced in the Ship to fall,</l>
+               <l>The cruell Sea was made their Buriall;</l>
+               <l>And into th' Waves without remorſe were throwne:</l>
+               <l>Poor men! ſlain by their foes, drown'd by their owne.</l>
+               <l>
+                  <pb n="23" facs="tcp:166468:13"/>A Fiſher-man, who nigh them cut the maine,</l>
+               <l>Sitting in's Boat, was with a Bullet ſlaine:</l>
+               <l>And the Barque fir'd, wherein he dead did fall,</l>
+               <l>Which <hi>gratis,</hi> burnt, gave him his Funeral.</l>
+               <l>True to thy Maſter, kinde boat; who with him</l>
+               <l>Didſt oft in life, and now in death doſt ſwim;</l>
+               <l>With him alive in water that didſt tire</l>
+               <l>Thy wave-beat ſides, dy'ſt now with him in fire:</l>
+               <l>Yet ſaile with him to <hi>Elyſium,</hi> ſaile the faſter;</l>
+               <l>In <hi>Charons</hi> ſtead that thou maiſt waft thy Maſter.</l>
+               <l>Strange boat! which thus we not amiſſe may call</l>
+               <l>His life, death, <hi>Charon,</hi> and his Funerall.</l>
+               <l>One, fearing death, doth feigne to dye, and bleed;</l>
+               <l>And while he is in feigning, dyes indeed.</l>
+               <l>Another, fearing Swords, to th' Sea doth flye,</l>
+               <l>And ſo, for feare of death, feares not to dye.</l>
+               <l>Some fall into the Ocean ſtain'd with goare,</l>
+               <l>Which from their former wounds had guſh'd before:</l>
+               <l>Which kil'd not them, as it from them was ſpil'd,</l>
+               <l>But entring into them againe, they're kil'd.</l>
+               <l>
+                  <pb n="24" facs="tcp:166468:14"/>Here's one, about to ſtrike his foe, doth fall</l>
+               <l>Into the Sea; before he can recall</l>
+               <l>His erring ſtroke, ſtriking the Sea to ſtay him,</l>
+               <l>The Ocean in revenge oth' blow doth ſlay him.</l>
+               <l>Another, being about to ſtrike his foe,</l>
+               <l>Looſeth at once his arme, and threatning blow;</l>
+               <l>His left arme ſhivering, reacheth at the other,</l>
+               <l>But cut in twaine, lies with its equall brother:</l>
+               <l>Both joyn'd, though both divided, as in ſpight</l>
+               <l>Of death they meant to part their laſt good night,</l>
+               <l>By ſhaking hands: the miſerable trunke,</l>
+               <l>As loath to part, fainting, upon them ſunke.</l>
+               <l>One, ſeeing them together thus, might ſay,</l>
+               <l>There a whole body all in peices lay.</l>
+               <l>See, two with ſturdy grapple ſtriving, whether</l>
+               <l>Should overcome, both fall ith' ſea together;</l>
+               <l>Embracing both, till they have loſt their breath,</l>
+               <l>And ſeem, though foes in life, yet friends in death.</l>
+               <l>Two brothers ſlaine, as they together ſtood,</l>
+               <l>One then might ſwear, they were allied in blood.</l>
+               <l>
+                  <pb n="25" facs="tcp:166468:14"/>Other two, who, ſo nigh reſembling, were</l>
+               <l>A lov'd miſtake unto the Parents deare,</l>
+               <l>Cruell death ſever'd them; and that one left</l>
+               <l>Poore Parents knew, of Errour now bereft.</l>
+               <l>He left, eternall cauſe of griefe renewes,</l>
+               <l>Who ſtill alive, ſtill his dead brother ſhewes:</l>
+               <l>And yet to them this comfort ſtill he gives,</l>
+               <l>Th' one cannot dye, ſo long as th' other lives.</l>
+               <l>The wounded Souldiers, now that all elſe failes,</l>
+               <l>To ſtop their wounds, do teare their wofull ſailes.</l>
+               <l>Poore men! who, after they were overthrowne,</l>
+               <l>Had torne thoſe wings, whereby they might have flowne</l>
+               <l>One, with his bleeding, ready to expire,</l>
+               <l>Thinkes with his blood to quench the Ship on fire;</l>
+               <l>And ſo in midſt of flames he bleeding ſtands,</l>
+               <l>Tearing new wounds with his kind-cruell hands:</l>
+               <l>And griev'd to ſee his blood ſo little profit,</l>
+               <l>He oft addes teares to helpe the quenching of it;</l>
+               <l>Till at laſt fainting he is faine to fall</l>
+               <l>Into the Sea, which made his Funerall.</l>
+               <l>
+                  <pb n="26" facs="tcp:166468:15"/>And bleeding in it from each mangled limbe,</l>
+               <l>He quenched it, and it extinguiſh'd him.</l>
+               <l>See a poore Mar'ner, both armes cut aſunder,</l>
+               <l>Diſtracted leaps into the water, (under</l>
+               <l>Meaning to ſwim:) but ſee the wofull wretch,</l>
+               <l>With how much toile he laboureth to ſtretch</l>
+               <l>His raw-vein'd ſtumps; which for his armes before</l>
+               <l>Guſh nothing now but ſtreames of deadly goare.</l>
+               <l>Faine would he catch, t' uphold his wavering life,</l>
+               <l>Some kinde remaine o'th' Ship; but all his ſtrife</l>
+               <l>Doth make him ſooner to be out of breath,</l>
+               <l>And wanting armes he yet embraceth death.</l>
+               <l>One getteth this, by having loſt his eyes,</l>
+               <l>In that he cannot ſee his miſeries.</l>
+               <l>Anothers legs are gone, that who him ſees,</l>
+               <l>Might think he did beg pardon on his knees.</l>
+               <l>What refuge now is left? when, if they ſhun</l>
+               <l>Th' approaching ſword, into the fire they run:</l>
+               <l>Shunning the fire, they into water fall;</l>
+               <l>So no way wants a certaine Funerall.</l>
+               <l>
+                  <pb n="27" facs="tcp:166468:15"/>Thus after ſtrange unheard of ſort they lye,</l>
+               <l>And death by many deaths makes one man dye.</l>
+               <l>The mangled Ships no longer can withſtand</l>
+               <l>Th' intruding Sea, and <hi>Mars</hi> his fiery brand;</l>
+               <l>But ſinking downward, one might then have thought</l>
+               <l>Them gon t' help <hi>Charon</hi> to waft ore his fraught.</l>
+               <l>Thus ſeven full houres the Sun endur'd to ſee</l>
+               <l>(Nor longer would) ſuch inhumanitie.</l>
+               <l>Therefore his Horſes, bathing in their foame,</l>
+               <l>With poſting ſpeed haſt to their watry home;</l>
+               <l>Where yet a while they all amazed ſtood,</l>
+               <l>Finding, inſtead of Sea, a Sea of blood.</l>
+            </lg>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Hor. 2.</hi> od. <hi>13.</hi>
+                  </bibl>
+                  <l>— Sed magis</l>
+                  <l>Pugnas, &amp; exactos tyrannos</l>
+                  <l>Denſum humeris bibit aure vulgus.</l>
+                  <l>Quid mirum? uhi illis carminibus stupens</l>
+                  <l>Demittit atras bellua centiceps</l>
+                  <l>Aures, &amp; intorti capillis</l>
+                  <l>Eumenidum recreantur angues.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
